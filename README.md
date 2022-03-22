@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @destroyedfog
-- 👀 I’m interested in everything about theoretical and applied computer science, machine learning
+- 👀 I’m interested in everything about theoretical and applied computer science, machine learning, etc....
 - 🌱 I’m currently doing masters in computer enginnering from IIEST Shibpur, West Bengal, India
 - 📫 reach me at destroyedfog3070@gmail.com
 
